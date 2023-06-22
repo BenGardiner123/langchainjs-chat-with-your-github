@@ -1,4 +1,4 @@
-
+![chat_ur_repo](https://github.com/BenGardiner123/langchainjs-chat-with-your-github/assets/61527372/7ecdb395-d286-47a9-9553-7ad5e34a9b30)
 
 # Langchain Chat with Your Github
 
